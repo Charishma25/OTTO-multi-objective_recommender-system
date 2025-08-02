@@ -1,4 +1,4 @@
-# Anil's Solution for OTTO – Multi-Objective Recommender System
+# charishma's Solution for OTTO – Multi-Objective Recommender System
 
 The solution pipeline consists of:
 - [Generating Covisitation Matrices](https://github.com/nlztrk/OTTO-Multi-Objective-Recommender-System/blob/main/0.%20Covisitation.ipynb)
